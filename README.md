@@ -20,7 +20,3 @@ A sample Excel workbook that demonstrates how to generate monthly Balance Sheet 
 
 **Contribute / Issues**
 If you find bugs or have improvement ideas (e.g., additional mapping logic or localization), please open an issue or a pull request.
-
-**Author**
-[github_badge]: https://badgen.net/badge/icon/GitHub?icon=github&color=black&label
-[github_link]: https://github.com/colebeezy415
